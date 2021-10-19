@@ -17,7 +17,7 @@
   ### Reflection 
   It ended up taking me awhile to remember how to mate together parts but after I got through that it was smooth sailing.
   
-## Designing the deck
+## Designing the trucks
   
   ### Description
   ### Images 
