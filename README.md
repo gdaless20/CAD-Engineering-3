@@ -25,7 +25,7 @@
   ### Reflection 
   
   
-## Designing the deck
+## Designing the wheels and bearings
   
   ### Description
   ### Images 
