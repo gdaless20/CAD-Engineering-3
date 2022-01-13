@@ -38,7 +38,7 @@
   The wheels started out as two rectangles and by using the revolve tool they gained the abiltyy to roll. The bearings are what help the wheels roll smothly while being connected to the trucks and deck.
   
   ### Images
-  
+   ![hotTrash](https://github.com/gdaless20/CAD-Engineering-3/blob/main/wheel.PNG)
 
   ### Link
   [Skateboard wheels and bearings](https://cvilleschools.onshape.com/documents/7cb11a0d54ae46c13476b4ca/w/d2a085f23e7c8540d45cca03/e/95e010f165277273d4751f04)
@@ -49,6 +49,9 @@
   
   ### Description
   ### Images 
+  ### Link
+   ![hotTrash](https://github.com/gdaless20/CAD-Engineering-3/blob/main/fffffffffffffffffffffffffffffff.PNG)
+
   ### Link
   ### Reflection 
   
