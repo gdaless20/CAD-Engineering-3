@@ -15,7 +15,7 @@
   ### Link
 [Skateboard Deck](https://cvilleschools.onshape.com/documents/7cb11a0d54ae46c13476b4ca/w/d2a085f23e7c8540d45cca03/e/2662917746f7e7a18e0c029a)
   ### Reflection 
-  It ended up taking me awhile to remember how to mate together parts but after I got through that it was smooth sailing.
+  It ended up taking me a while to remember how to mate together parts but after I got through that it was smooth sailing. While creating the deck I acquired a new understanding of naming my parts, I got to the very end of the deck and I needed to go back and fix a dimension. Because I didn't name the sketch, I had to go back one by one and open every drawing I had to find the incorrect dimension.
   
 ## Designing the trucks
   
@@ -30,7 +30,7 @@
   [Skateboard Trucks](https://cvilleschools.onshape.com/documents/7cb11a0d54ae46c13476b4ca/w/d2a085f23e7c8540d45cca03/e/95e010f165277273d4751f04)
  
   ### Reflection 
-  I was stuck on the trucks for hours. I love cad and typically find it easy but while i was mating the inner circles for the different part of teh trucks the mates never worked out. I had to repeat almost every mate at least 3 times before it worked. After i got through that it was a very simply part.
+  I was stuck on the trucks for hours. I love cad and typically find it easy but while I was mating the inner circles for the different parts of the trucks the mates never worked out. I had to repeat almost every mate at least 3 times before it worked. After I got through that it was a very simple part.
   
 ## Designing the wheels and bearings
   
@@ -43,16 +43,21 @@
   ### Link
   [Skateboard wheels and bearings](https://cvilleschools.onshape.com/documents/7cb11a0d54ae46c13476b4ca/w/d2a085f23e7c8540d45cca03/e/95e010f165277273d4751f04)
   ### Reflection 
-  Over all the cretion process of the wheels and bearings were pretty simple. I omce again stuggled for a solid 2 days on the mating , with revolveds there are 6 different inner circles to choose from when mating . Only one out of the six circles gives you the correct orientation for the mate. The bearigs also likes to go through the wheel while i was going through that mating process.
+   Overall the creation process of the wheels and bearings was pretty simple. I once again struggled for a solid two days on the mating, with revolves there are 6 different inner circles to choose from when mating. Only one out of the six circles gives you the correct orientation for the mate. The bearings also likes to go through the wheel while I was going through that mating process.
   
  ## Putting it all together
   
   ### Description
+  I created a skateboard in onshape using 4 different parts. I created the wheels , bearings, deck, and trucks seperatly then mated them all together.
   ### Images 
-  ### Link
-   ![hotTrash](https://github.com/gdaless20/CAD-Engineering-3/blob/main/fffffffffffffffffffffffffffffff.PNG)
+ 
+  ![hotTrash](https://github.com/gdaless20/CAD-Engineering-3/blob/main/fffffffffffffffffffffffffffffff.PNG)
 
   ### Link
+ [Skateboard](https://cvilleschools.onshape.com/documents/7cb11a0d54ae46c13476b4ca/w/d2a085f23e7c8540d45cca03/e/95e010f165277273d4751f04)
+  
+ 
   ### Reflection 
   
+This skateboard truly tested my patience. I struggled a lot with all the mates as I typically try to avoid mating anything when doing my Onshape projects. I used reloves, fillets and quite a few other tools to create a skateboard with two trucks, a deck, four wheels, and four bearings.
  
