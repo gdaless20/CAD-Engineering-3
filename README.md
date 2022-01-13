@@ -45,16 +45,11 @@
   ### Reflection 
   Over all the cretion process of the wheels and bearings were pretty simple. I omce again stuggled for a solid 2 days on the mating , with revolveds there are 6 different inner circles to choose from when mating . Only one out of the six circles gives you the correct orientation for the mate. The bearigs also likes to go through the wheel while i was going through that mating process.
   
- ## Designing the deck
+ ## Putting it all together
   
   ### Description
   ### Images 
   ### Link
   ### Reflection 
   
-  ## Designing the deck
-  
-  ### Description
-  ### Images 
-  ### Link
-  ### Reflection 
+ 
